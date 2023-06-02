@@ -1,4 +1,4 @@
-# <span id="top">프로젝트 이ㅁ</span>
+# <span id="top">반응형 웹</span>
 
 ## 소개 및 개요
 
@@ -7,7 +7,7 @@
 
 
 ### [프로젝트 설명]
-
+반응형 웹
 
 <br/>
 
@@ -17,14 +17,7 @@
 
 1. [프로젝트 소개](#teamintro)
 2. [기술 및 개발 환경](#stack)
-3. [개발 기간 및 작업 문화](#task)
-4. [주요 기능](#mainfeat)
-5. [프로젝트 구조](#structure)
-6. [역할분담](#role)
-7. [UI](#ui)
-8. [페이지 기능](#pageinfo)
-9. [핵심 기능](#issue)
-10. [느낀점](#impression)
+  
 </div>
 </details>
 <br/>
