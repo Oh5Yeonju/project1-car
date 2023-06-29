@@ -1,38 +1,107 @@
-# <span id="top">반응형 웹</span>
 
-## 소개 및 개요
+## 니고네고
 
-- 프로젝트 기간 : 
-- 배포 URL :
+목업이미지
+
+```
+🏠 배포 URL:
+🔐 Test ID/PW: 
+```
+
+<br />
+
+## 목차
+1. [프로젝트 소개](#1-프로젝트-소개)<br/>
+
+<br />
+
+## 1. 프로젝트 소개
 
 
-### [프로젝트 설명]
-반응형 웹
+<br />
 
-<br/>
+<br />
 
-<details>
-<summary>목차</summary>
-<div markdown="1">
+## 3. 개발 기간
 
-1. [프로젝트 소개](#teamintro)
-2. [기술 및 개발 환경](#stack)
-  
-</div>
-</details>
-<br/>
+### 
 
-## <span id="teamintro">1. 프로젝트 소개</span>
+- 1주차: 
 
-## <span id="stack">2. 기술 및 개발 환경</span>
-### [사용 기술]
-- Front-end : <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=Styled-Components&logoColor=white">
+<br />
 
-<br/>
+## 4. 개발 환경
 
-### [개발 환경]
+### 프론트엔드
 
-<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Recoil-바탕색?style=flat&logo=Recoil&logoColor=white"/> <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styledcomponents&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
 
-<br/>
-<p align="right"><a href="#top">(⬆️ Top)</a></p>
+
+### 백엔드:
+
+
+<br />
+
+## 5. 폴더 구조
+
+```jsx
+폴더 구조
+```
+
+<br />
+
+## 6. 작업문화
+
+### 6-2. branch 전략
+
+```jsx
+Git Flow
+main - dev - feature[기능]
+
+기능에 따라 브랜치를 구별하여 협업의 능률을 높였습니다.
+각자 맡은 기능에 집중할 수 있었고, 연관되는 기능이 있을 경우 관련되는 기능들만 merge를 하여 오류가 나더라도 다른 기능에 영향을 주지 않을 수 있었습니다.
+```
+
+<br />
+
+## 7. 주요기능
+
+<br />
+
+## 8. 기능 UI
+
+### 주요기능
+
+| Splash                                                                                                                    | 로그인                                                                                                                             | 회원가입                                                                                                                             | 프로필 설정                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
+| ![페이지명](gif 이미지) | ![페이지명](gif 이미지) | ![페이지명](gif 이미지) | ![페이지명](gif 이미지) |
+
+
+
+## 9. 컨벤션
+
+| 커밋 컨벤션                                             |
+| ------------------------------------------------------- |
+| Feat : 새로운 기능 추가                              |
+| Design : CSS, 사용자 UI 디자인 변경                  |
+| Docs : 문서 수정                                     |
+| Style : 코드포맷, 세미콜론, 개행, 코드 구조, 형태    |
+| Test : 테스트                                        |
+| Refactor : 코드 리팩토링                             |
+| Fix : 버그 및 오류 수정                              |
+| Remove : 불필요한 파일 삭제                          |
+| Chore : 빌드 업무, 패키지매니저, 폴더트리, 세팅 수정 |
+| Comment : 필요한 주석 추가 및 변경                   |
+
+<br />
+
+## 10. 리팩토링 방향성
+
+#### 📍 웹 표준
+
+#### 📍 웹 접근성 
+
+<br />
+
+## 12. 출처
+
